@@ -1,0 +1,4 @@
+*.layout
+bin/
+debug/
+*.o
