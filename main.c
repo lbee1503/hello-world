@@ -1,4 +1,4 @@
-/*
+/**
  * @file main.c
  *
  * This file contains the main function to start the application
@@ -9,8 +9,8 @@
 
 /** \brief main() is the function that starts the program
  *
- * \param int argc is the argument count
- * \param char **argv is a list of pointer to C-string characters
+ * \param argc is the argument count
+ * \param argv is a list of pointer to C-string characters
  * \return int
  *
  */

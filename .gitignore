@@ -1,4 +1,9 @@
 *.layout
 bin/
 debug/
+obj/
+doc/
+doxygen/
+html/
+latex/
 *.o
